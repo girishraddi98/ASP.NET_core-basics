@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "WebApplication6.Controllers.AppBController",
+    "Method": "Get",
+    "RelativePath": "api/appb",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplication6.Controllers.TestController",
+    "Method": "Get",
+    "RelativePath": "test",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

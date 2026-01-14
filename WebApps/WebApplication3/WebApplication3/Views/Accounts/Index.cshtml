@@ -1,0 +1,13 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model WebApplication3.ViewModel.RandomMovieViewModel
+<p>
+    <strong>Name:</strong> @Model.Movie.Name <br />
+    <ul>
+        @foreach(var cust in Model.Customers)
+        {
+            <li>@cust.Name</li>
+        }
+    </ul>
+</p>

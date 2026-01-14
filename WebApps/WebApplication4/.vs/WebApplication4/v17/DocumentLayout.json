@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marad\\source\\repos\\WebApplication4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B9ABDE-752A-4DF3-987D-B47F5C83AF5B}|WebApplication4\\WebApplication4.csproj|c:\\users\\marad\\source\\repos\\webapplication4\\webapplication4\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2B9ABDE-752A-4DF3-987D-B47F5C83AF5B}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B9ABDE-752A-4DF3-987D-B47F5C83AF5B}|WebApplication4\\WebApplication4.csproj|c:\\users\\marad\\source\\repos\\webapplication4\\webapplication4\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2B9ABDE-752A-4DF3-987D-B47F5C83AF5B}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B9ABDE-752A-4DF3-987D-B47F5C83AF5B}|WebApplication4\\WebApplication4.csproj|c:\\users\\marad\\source\\repos\\webapplication4\\webapplication4\\db\\accountdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2B9ABDE-752A-4DF3-987D-B47F5C83AF5B}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\db\\accountdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B9ABDE-752A-4DF3-987D-B47F5C83AF5B}|WebApplication4\\WebApplication4.csproj|c:\\users\\marad\\source\\repos\\webapplication4\\webapplication4\\models\\addaccounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2B9ABDE-752A-4DF3-987D-B47F5C83AF5B}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\models\\addaccounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B9ABDE-752A-4DF3-987D-B47F5C83AF5B}|WebApplication4\\WebApplication4.csproj|c:\\users\\marad\\source\\repos\\webapplication4\\webapplication4\\controllers\\newcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2B9ABDE-752A-4DF3-987D-B47F5C83AF5B}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\controllers\\newcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B9ABDE-752A-4DF3-987D-B47F5C83AF5B}|WebApplication4\\WebApplication4.csproj|c:\\users\\marad\\source\\repos\\webapplication4\\webapplication4\\services\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2B9ABDE-752A-4DF3-987D-B47F5C83AF5B}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\services\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B9ABDE-752A-4DF3-987D-B47F5C83AF5B}|WebApplication4\\WebApplication4.csproj|c:\\users\\marad\\source\\repos\\webapplication4\\webapplication4\\services\\handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2B9ABDE-752A-4DF3-987D-B47F5C83AF5B}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\services\\handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B9ABDE-752A-4DF3-987D-B47F5C83AF5B}|WebApplication4\\WebApplication4.csproj|c:\\users\\marad\\source\\repos\\webapplication4\\webapplication4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2B9ABDE-752A-4DF3-987D-B47F5C83AF5B}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B9ABDE-752A-4DF3-987D-B47F5C83AF5B}|WebApplication4\\WebApplication4.csproj|c:\\users\\marad\\source\\repos\\webapplication4\\webapplication4\\webapplication4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E2B9ABDE-752A-4DF3-987D-B47F5C83AF5B}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\webapplication4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountDb.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\WebApplication4\\WebApplication4\\DB\\AccountDb.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\DB\\AccountDb.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\WebApplication4\\WebApplication4\\DB\\AccountDb.cs",
+              "RelativeToolTip": "WebApplication4\\DB\\AccountDb.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T05:08:08.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Handler.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\WebApplication4\\WebApplication4\\Services\\Handler.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Services\\Handler.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\WebApplication4\\WebApplication4\\Services\\Handler.cs",
+              "RelativeToolTip": "WebApplication4\\Services\\Handler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T11:17:49.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NewController.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\WebApplication4\\WebApplication4\\Controllers\\NewController.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Controllers\\NewController.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\WebApplication4\\WebApplication4\\Controllers\\NewController.cs",
+              "RelativeToolTip": "WebApplication4\\Controllers\\NewController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T10:16:27.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\WebApplication4\\WebApplication4\\Services\\Class.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Services\\Class.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\WebApplication4\\WebApplication4\\Services\\Class.cs",
+              "RelativeToolTip": "WebApplication4\\Services\\Class.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T06:52:53.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\WebApplication4\\WebApplication4\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Services\\AccountService.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\WebApplication4\\WebApplication4\\Services\\AccountService.cs",
+              "RelativeToolTip": "WebApplication4\\Services\\AccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T06:42:19.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\WebApplication4\\WebApplication4\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\WebApplication4\\WebApplication4\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "WebApplication4\\Controllers\\AccountsController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T09:24:58.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddAccounts.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\WebApplication4\\WebApplication4\\Models\\AddAccounts.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Models\\AddAccounts.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\WebApplication4\\WebApplication4\\Models\\AddAccounts.cs",
+              "RelativeToolTip": "WebApplication4\\Models\\AddAccounts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T09:23:11.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\WebApplication4\\WebApplication4\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Program.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\WebApplication4\\WebApplication4\\Program.cs",
+              "RelativeToolTip": "WebApplication4\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T07:35:04.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WebApplication4.csproj",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\WebApplication4\\WebApplication4\\WebApplication4.csproj",
+              "RelativeDocumentMoniker": "WebApplication4\\WebApplication4.csproj",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\WebApplication4\\WebApplication4\\WebApplication4.csproj",
+              "RelativeToolTip": "WebApplication4\\WebApplication4.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-13T06:41:30.535Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\marad\source\repos\Exercise8\Exercise8\bin\Debug\net8.0\Exercise8.exe
+C:\Users\marad\source\repos\Exercise8\Exercise8\bin\Debug\net8.0\Exercise8.deps.json
+C:\Users\marad\source\repos\Exercise8\Exercise8\bin\Debug\net8.0\Exercise8.runtimeconfig.json
+C:\Users\marad\source\repos\Exercise8\Exercise8\bin\Debug\net8.0\Exercise8.dll
+C:\Users\marad\source\repos\Exercise8\Exercise8\bin\Debug\net8.0\Exercise8.pdb
+C:\Users\marad\source\repos\Exercise8\Exercise8\obj\Debug\net8.0\Exercise8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marad\source\repos\Exercise8\Exercise8\obj\Debug\net8.0\Exercise8.AssemblyInfoInputs.cache
+C:\Users\marad\source\repos\Exercise8\Exercise8\obj\Debug\net8.0\Exercise8.AssemblyInfo.cs
+C:\Users\marad\source\repos\Exercise8\Exercise8\obj\Debug\net8.0\Exercise8.csproj.CoreCompileInputs.cache
+C:\Users\marad\source\repos\Exercise8\Exercise8\obj\Debug\net8.0\Exercise8.dll
+C:\Users\marad\source\repos\Exercise8\Exercise8\obj\Debug\net8.0\refint\Exercise8.dll
+C:\Users\marad\source\repos\Exercise8\Exercise8\obj\Debug\net8.0\Exercise8.pdb
+C:\Users\marad\source\repos\Exercise8\Exercise8\obj\Debug\net8.0\Exercise8.genruntimeconfig.cache
+C:\Users\marad\source\repos\Exercise8\Exercise8\obj\Debug\net8.0\ref\Exercise8.dll

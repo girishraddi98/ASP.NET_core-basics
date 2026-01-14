@@ -1,0 +1,14 @@
+C:\Users\marad\source\repos\Excerise6\Excerise6\bin\Debug\net8.0\Excerise6.exe
+C:\Users\marad\source\repos\Excerise6\Excerise6\bin\Debug\net8.0\Excerise6.deps.json
+C:\Users\marad\source\repos\Excerise6\Excerise6\bin\Debug\net8.0\Excerise6.runtimeconfig.json
+C:\Users\marad\source\repos\Excerise6\Excerise6\bin\Debug\net8.0\Excerise6.dll
+C:\Users\marad\source\repos\Excerise6\Excerise6\bin\Debug\net8.0\Excerise6.pdb
+C:\Users\marad\source\repos\Excerise6\Excerise6\obj\Debug\net8.0\Excerise6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marad\source\repos\Excerise6\Excerise6\obj\Debug\net8.0\Excerise6.AssemblyInfoInputs.cache
+C:\Users\marad\source\repos\Excerise6\Excerise6\obj\Debug\net8.0\Excerise6.AssemblyInfo.cs
+C:\Users\marad\source\repos\Excerise6\Excerise6\obj\Debug\net8.0\Excerise6.csproj.CoreCompileInputs.cache
+C:\Users\marad\source\repos\Excerise6\Excerise6\obj\Debug\net8.0\Excerise6.dll
+C:\Users\marad\source\repos\Excerise6\Excerise6\obj\Debug\net8.0\refint\Excerise6.dll
+C:\Users\marad\source\repos\Excerise6\Excerise6\obj\Debug\net8.0\Excerise6.pdb
+C:\Users\marad\source\repos\Excerise6\Excerise6\obj\Debug\net8.0\Excerise6.genruntimeconfig.cache
+C:\Users\marad\source\repos\Excerise6\Excerise6\obj\Debug\net8.0\ref\Excerise6.dll
