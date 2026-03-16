@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\EntityFW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{687B1C0D-D246-4055-A2A1-203968CCC29A}|EntityFW\\EntityFW.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\webapps\\entityfw\\entityfw\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{687B1C0D-D246-4055-A2A1-203968CCC29A}|EntityFW\\EntityFW.csproj|solutionrelative:entityfw\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{687B1C0D-D246-4055-A2A1-203968CCC29A}|EntityFW\\EntityFW.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\webapps\\entityfw\\entityfw\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{687B1C0D-D246-4055-A2A1-203968CCC29A}|EntityFW\\EntityFW.csproj|solutionrelative:entityfw\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{687B1C0D-D246-4055-A2A1-203968CCC29A}|EntityFW\\EntityFW.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\webapps\\entityfw\\entityfw\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{687B1C0D-D246-4055-A2A1-203968CCC29A}|EntityFW\\EntityFW.csproj|solutionrelative:entityfw\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{687B1C0D-D246-4055-A2A1-203968CCC29A}|EntityFW\\EntityFW.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\webapps\\entityfw\\entityfw\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{687B1C0D-D246-4055-A2A1-203968CCC29A}|EntityFW\\EntityFW.csproj|solutionrelative:entityfw\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{687B1C0D-D246-4055-A2A1-203968CCC29A}|EntityFW\\EntityFW.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\webapps\\entityfw\\entityfw\\entityfw.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{687B1C0D-D246-4055-A2A1-203968CCC29A}|EntityFW\\EntityFW.csproj|solutionrelative:entityfw\\entityfw.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{687B1C0D-D246-4055-A2A1-203968CCC29A}|EntityFW\\EntityFW.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\webapps\\entityfw\\entityfw\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{687B1C0D-D246-4055-A2A1-203968CCC29A}|EntityFW\\EntityFW.csproj|solutionrelative:entityfw\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\EntityFW\\EntityFW\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EntityFW\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\EntityFW\\EntityFW\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "EntityFW\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T10:35:04.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\EntityFW\\EntityFW\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "EntityFW\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\EntityFW\\EntityFW\\Models\\OrderItem.cs",
+              "RelativeToolTip": "EntityFW\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T10:32:55.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\EntityFW\\EntityFW\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "EntityFW\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\EntityFW\\EntityFW\\Models\\Order.cs",
+              "RelativeToolTip": "EntityFW\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T10:32:34.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\EntityFW\\EntityFW\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "EntityFW\\Models\\Products.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\EntityFW\\EntityFW\\Models\\Products.cs",
+              "RelativeToolTip": "EntityFW\\Models\\Products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T10:32:11.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EntityFW.csproj",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\EntityFW\\EntityFW\\EntityFW.csproj",
+              "RelativeDocumentMoniker": "EntityFW\\EntityFW.csproj",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\EntityFW\\EntityFW\\EntityFW.csproj",
+              "RelativeToolTip": "EntityFW\\EntityFW.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-21T10:34:32.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\EntityFW\\EntityFW\\Models\\Class.cs",
+              "RelativeDocumentMoniker": "EntityFW\\Models\\Class.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\EntityFW\\EntityFW\\Models\\Class.cs",
+              "RelativeToolTip": "EntityFW\\Models\\Class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T10:40:02.379Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

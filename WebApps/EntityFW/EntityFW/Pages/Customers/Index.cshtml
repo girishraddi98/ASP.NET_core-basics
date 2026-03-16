@@ -1,0 +1,26 @@
+﻿@page
+@model EntityFW.Pages.Customers.IndexModel
+@{
+    ViewData["Title"] = "Customers";
+}
+<h1>Customers</h1>
+
+<p><a href="/Customers/Create">Add New Customer</a></p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Email</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var customer in Model.Customers)
+        {
+            <tr>
+                <td>@customer.Name</td>
+                <td>@customer.Email</td>
+            </tr>
+        }
+    </tbody>
+</table>
