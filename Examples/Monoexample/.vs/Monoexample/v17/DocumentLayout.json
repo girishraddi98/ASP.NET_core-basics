@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\Monoexample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8503D92-CA26-40A9-AC37-D365C8ECD345}|Monoexample\\Monoexample.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\examples\\monoexample\\monoexample\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8503D92-CA26-40A9-AC37-D365C8ECD345}|Monoexample\\Monoexample.csproj|solutionrelative:monoexample\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8503D92-CA26-40A9-AC37-D365C8ECD345}|Monoexample\\Monoexample.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\examples\\monoexample\\monoexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8503D92-CA26-40A9-AC37-D365C8ECD345}|Monoexample\\Monoexample.csproj|solutionrelative:monoexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8503D92-CA26-40A9-AC37-D365C8ECD345}|Monoexample\\Monoexample.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\examples\\monoexample\\monoexample\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B8503D92-CA26-40A9-AC37-D365C8ECD345}|Monoexample\\Monoexample.csproj|solutionrelative:monoexample\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8503D92-CA26-40A9-AC37-D365C8ECD345}|Monoexample\\Monoexample.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\examples\\monoexample\\monoexample\\middleware\\exceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8503D92-CA26-40A9-AC37-D365C8ECD345}|Monoexample\\Monoexample.csproj|solutionrelative:monoexample\\middleware\\exceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8503D92-CA26-40A9-AC37-D365C8ECD345}|Monoexample\\Monoexample.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\examples\\monoexample\\monoexample\\models\\vochers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8503D92-CA26-40A9-AC37-D365C8ECD345}|Monoexample\\Monoexample.csproj|solutionrelative:monoexample\\models\\vochers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8503D92-CA26-40A9-AC37-D365C8ECD345}|Monoexample\\Monoexample.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\examples\\monoexample\\monoexample\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8503D92-CA26-40A9-AC37-D365C8ECD345}|Monoexample\\Monoexample.csproj|solutionrelative:monoexample\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8503D92-CA26-40A9-AC37-D365C8ECD345}|Monoexample\\Monoexample.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\examples\\monoexample\\monoexample\\repository\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8503D92-CA26-40A9-AC37-D365C8ECD345}|Monoexample\\Monoexample.csproj|solutionrelative:monoexample\\repository\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8503D92-CA26-40A9-AC37-D365C8ECD345}|Monoexample\\Monoexample.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\examples\\monoexample\\monoexample\\files\\loggfile20260216.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B8503D92-CA26-40A9-AC37-D365C8ECD345}|Monoexample\\Monoexample.csproj|solutionrelative:monoexample\\files\\loggfile20260216.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8503D92-CA26-40A9-AC37-D365C8ECD345}|Monoexample\\Monoexample.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\examples\\monoexample\\monoexample\\repository\\iuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8503D92-CA26-40A9-AC37-D365C8ECD345}|Monoexample\\Monoexample.csproj|solutionrelative:monoexample\\repository\\iuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8503D92-CA26-40A9-AC37-D365C8ECD345}|Monoexample\\Monoexample.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\examples\\monoexample\\monoexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B8503D92-CA26-40A9-AC37-D365C8ECD345}|Monoexample\\Monoexample.csproj|solutionrelative:monoexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8503D92-CA26-40A9-AC37-D365C8ECD345}|Monoexample\\Monoexample.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\examples\\monoexample\\monoexample\\features\\user\\getuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8503D92-CA26-40A9-AC37-D365C8ECD345}|Monoexample\\Monoexample.csproj|solutionrelative:monoexample\\features\\user\\getuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoggFile20260216.txt",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\Monoexample\\Monoexample\\Files\\LoggFile20260216.txt",
+              "RelativeDocumentMoniker": "Monoexample\\Files\\LoggFile20260216.txt",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\Monoexample\\Monoexample\\Files\\LoggFile20260216.txt",
+              "RelativeToolTip": "Monoexample\\Files\\LoggFile20260216.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-02-16T09:12:00.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExceptionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\Monoexample\\Monoexample\\Middleware\\ExceptionHandler.cs",
+              "RelativeDocumentMoniker": "Monoexample\\Middleware\\ExceptionHandler.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\Monoexample\\Monoexample\\Middleware\\ExceptionHandler.cs",
+              "RelativeToolTip": "Monoexample\\Middleware\\ExceptionHandler.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA5wCsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T06:33:37.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\Monoexample\\Monoexample\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "Monoexample\\Models\\Users.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\Monoexample\\Monoexample\\Models\\Users.cs",
+              "RelativeToolTip": "Monoexample\\Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T06:43:41.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\Monoexample\\Monoexample\\Program.cs",
+              "RelativeDocumentMoniker": "Monoexample\\Program.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\Monoexample\\Monoexample\\Program.cs",
+              "RelativeToolTip": "Monoexample\\Program.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T06:34:10.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vochers.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\Monoexample\\Monoexample\\Models\\Vochers.cs",
+              "RelativeDocumentMoniker": "Monoexample\\Models\\Vochers.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\Monoexample\\Monoexample\\Models\\Vochers.cs",
+              "RelativeToolTip": "Monoexample\\Models\\Vochers.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAqwGYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T12:07:30.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\Monoexample\\Monoexample\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Monoexample\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\Monoexample\\Monoexample\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Monoexample\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAiwIQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T08:53:14.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\Monoexample\\Monoexample\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Monoexample\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\Monoexample\\Monoexample\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Monoexample\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-06T09:25:33.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\Monoexample\\Monoexample\\Repository\\UserRepo.cs",
+              "RelativeDocumentMoniker": "Monoexample\\Repository\\UserRepo.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\Monoexample\\Monoexample\\Repository\\UserRepo.cs",
+              "RelativeToolTip": "Monoexample\\Repository\\UserRepo.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowEsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T06:51:29.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUserRepo.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\Monoexample\\Monoexample\\Repository\\IUserRepo.cs",
+              "RelativeDocumentMoniker": "Monoexample\\Repository\\IUserRepo.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\Monoexample\\Monoexample\\Repository\\IUserRepo.cs",
+              "RelativeToolTip": "Monoexample\\Repository\\IUserRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T06:47:52.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\Monoexample\\Monoexample\\appsettings.json",
+              "RelativeDocumentMoniker": "Monoexample\\appsettings.json",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\Monoexample\\Monoexample\\appsettings.json",
+              "RelativeToolTip": "Monoexample\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-04T06:35:00.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetUser.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\Monoexample\\Monoexample\\Features\\User\\GetUser.cs",
+              "RelativeDocumentMoniker": "Monoexample\\Features\\User\\GetUser.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\Monoexample\\Monoexample\\Features\\User\\GetUser.cs",
+              "RelativeToolTip": "Monoexample\\Features\\User\\GetUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T06:15:30.875Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

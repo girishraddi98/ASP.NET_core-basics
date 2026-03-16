@@ -1,0 +1,498 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\NewProject - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA468511-582F-4F9D-97EF-C1AC8C3E77CF}|NewProject\\NewProject.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\examples\\newproject - copy\\newproject\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA468511-582F-4F9D-97EF-C1AC8C3E77CF}|NewProject\\NewProject.csproj|solutionrelative:newproject\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA468511-582F-4F9D-97EF-C1AC8C3E77CF}|NewProject\\NewProject.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\examples\\newproject - copy\\newproject\\dtos\\studentdto\\createstudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA468511-582F-4F9D-97EF-C1AC8C3E77CF}|NewProject\\NewProject.csproj|solutionrelative:newproject\\dtos\\studentdto\\createstudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA468511-582F-4F9D-97EF-C1AC8C3E77CF}|NewProject\\NewProject.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\examples\\newproject - copy\\newproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA468511-582F-4F9D-97EF-C1AC8C3E77CF}|NewProject\\NewProject.csproj|solutionrelative:newproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA468511-582F-4F9D-97EF-C1AC8C3E77CF}|NewProject\\NewProject.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\examples\\newproject - copy\\newproject\\service\\userservice\\instructauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA468511-582F-4F9D-97EF-C1AC8C3E77CF}|NewProject\\NewProject.csproj|solutionrelative:newproject\\service\\userservice\\instructauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA468511-582F-4F9D-97EF-C1AC8C3E77CF}|NewProject\\NewProject.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\examples\\newproject - copy\\newproject\\exceptionhandler\\eceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA468511-582F-4F9D-97EF-C1AC8C3E77CF}|NewProject\\NewProject.csproj|solutionrelative:newproject\\exceptionhandler\\eceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA468511-582F-4F9D-97EF-C1AC8C3E77CF}|NewProject\\NewProject.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\examples\\newproject - copy\\newproject\\service\\userservice\\stuauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA468511-582F-4F9D-97EF-C1AC8C3E77CF}|NewProject\\NewProject.csproj|solutionrelative:newproject\\service\\userservice\\stuauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA468511-582F-4F9D-97EF-C1AC8C3E77CF}|NewProject\\NewProject.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\examples\\newproject - copy\\newproject\\validateexceptions\\validatefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA468511-582F-4F9D-97EF-C1AC8C3E77CF}|NewProject\\NewProject.csproj|solutionrelative:newproject\\validateexceptions\\validatefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA468511-582F-4F9D-97EF-C1AC8C3E77CF}|NewProject\\NewProject.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\examples\\newproject - copy\\newproject\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA468511-582F-4F9D-97EF-C1AC8C3E77CF}|NewProject\\NewProject.csproj|solutionrelative:newproject\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA468511-582F-4F9D-97EF-C1AC8C3E77CF}|NewProject\\NewProject.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\examples\\newproject - copy\\newproject\\service\\userservice\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA468511-582F-4F9D-97EF-C1AC8C3E77CF}|NewProject\\NewProject.csproj|solutionrelative:newproject\\service\\userservice\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA468511-582F-4F9D-97EF-C1AC8C3E77CF}|NewProject\\NewProject.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\examples\\newproject - copy\\newproject\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA468511-582F-4F9D-97EF-C1AC8C3E77CF}|NewProject\\NewProject.csproj|solutionrelative:newproject\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA468511-582F-4F9D-97EF-C1AC8C3E77CF}|NewProject\\NewProject.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\examples\\newproject - copy\\newproject\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA468511-582F-4F9D-97EF-C1AC8C3E77CF}|NewProject\\NewProject.csproj|solutionrelative:newproject\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA468511-582F-4F9D-97EF-C1AC8C3E77CF}|NewProject\\NewProject.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\examples\\newproject - copy\\newproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA468511-582F-4F9D-97EF-C1AC8C3E77CF}|NewProject\\NewProject.csproj|solutionrelative:newproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA468511-582F-4F9D-97EF-C1AC8C3E77CF}|NewProject\\NewProject.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\examples\\newproject - copy\\newproject\\controllers\\instructorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA468511-582F-4F9D-97EF-C1AC8C3E77CF}|NewProject\\NewProject.csproj|solutionrelative:newproject\\controllers\\instructorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA468511-582F-4F9D-97EF-C1AC8C3E77CF}|NewProject\\NewProject.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\examples\\newproject - copy\\newproject\\dtos\\userlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA468511-582F-4F9D-97EF-C1AC8C3E77CF}|NewProject\\NewProject.csproj|solutionrelative:newproject\\dtos\\userlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA468511-582F-4F9D-97EF-C1AC8C3E77CF}|NewProject\\NewProject.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\examples\\newproject - copy\\newproject\\dtos\\instructordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA468511-582F-4F9D-97EF-C1AC8C3E77CF}|NewProject\\NewProject.csproj|solutionrelative:newproject\\dtos\\instructordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA468511-582F-4F9D-97EF-C1AC8C3E77CF}|NewProject\\NewProject.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\examples\\newproject - copy\\newproject\\service\\userservice\\enrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA468511-582F-4F9D-97EF-C1AC8C3E77CF}|NewProject\\NewProject.csproj|solutionrelative:newproject\\service\\userservice\\enrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA468511-582F-4F9D-97EF-C1AC8C3E77CF}|NewProject\\NewProject.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\examples\\newproject - copy\\newproject\\profiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA468511-582F-4F9D-97EF-C1AC8C3E77CF}|NewProject\\NewProject.csproj|solutionrelative:newproject\\profiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA468511-582F-4F9D-97EF-C1AC8C3E77CF}|NewProject\\NewProject.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\examples\\newproject - copy\\newproject\\controllers\\enrollcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA468511-582F-4F9D-97EF-C1AC8C3E77CF}|NewProject\\NewProject.csproj|solutionrelative:newproject\\controllers\\enrollcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA468511-582F-4F9D-97EF-C1AC8C3E77CF}|NewProject\\NewProject.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\examples\\newproject - copy\\newproject\\service\\userservice\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA468511-582F-4F9D-97EF-C1AC8C3E77CF}|NewProject\\NewProject.csproj|solutionrelative:newproject\\service\\userservice\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA468511-582F-4F9D-97EF-C1AC8C3E77CF}|NewProject\\NewProject.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\examples\\newproject - copy\\newproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DA468511-582F-4F9D-97EF-C1AC8C3E77CF}|NewProject\\NewProject.csproj|solutionrelative:newproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA468511-582F-4F9D-97EF-C1AC8C3E77CF}|NewProject\\NewProject.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\examples\\newproject - copy\\newproject\\dtos\\enrollmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA468511-582F-4F9D-97EF-C1AC8C3E77CF}|NewProject\\NewProject.csproj|solutionrelative:newproject\\dtos\\enrollmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA468511-582F-4F9D-97EF-C1AC8C3E77CF}|NewProject\\NewProject.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\examples\\newproject - copy\\newproject\\service\\userservice\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA468511-582F-4F9D-97EF-C1AC8C3E77CF}|NewProject\\NewProject.csproj|solutionrelative:newproject\\service\\userservice\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA468511-582F-4F9D-97EF-C1AC8C3E77CF}|NewProject\\NewProject.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\examples\\newproject - copy\\newproject\\dtos\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA468511-582F-4F9D-97EF-C1AC8C3E77CF}|NewProject\\NewProject.csproj|solutionrelative:newproject\\dtos\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA468511-582F-4F9D-97EF-C1AC8C3E77CF}|NewProject\\NewProject.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\examples\\newproject - copy\\newproject\\newproject.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{DA468511-582F-4F9D-97EF-C1AC8C3E77CF}|NewProject\\NewProject.csproj|solutionrelative:newproject\\newproject.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA468511-582F-4F9D-97EF-C1AC8C3E77CF}|NewProject\\NewProject.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\examples\\newproject - copy\\newproject\\migrations\\20260220045321_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA468511-582F-4F9D-97EF-C1AC8C3E77CF}|NewProject\\NewProject.csproj|solutionrelative:newproject\\migrations\\20260220045321_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA468511-582F-4F9D-97EF-C1AC8C3E77CF}|NewProject\\NewProject.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\examples\\newproject - copy\\newproject\\migrations\\20260223094551_addtokens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA468511-582F-4F9D-97EF-C1AC8C3E77CF}|NewProject\\NewProject.csproj|solutionrelative:newproject\\migrations\\20260223094551_addtokens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA468511-582F-4F9D-97EF-C1AC8C3E77CF}|NewProject\\NewProject.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\examples\\newproject - copy\\newproject\\migrations\\20260223045706_token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA468511-582F-4F9D-97EF-C1AC8C3E77CF}|NewProject\\NewProject.csproj|solutionrelative:newproject\\migrations\\20260223045706_token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\NewProject - Copy\\NewProject\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "NewProject\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\NewProject - Copy\\NewProject\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "NewProject\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T10:50:26.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StuAuth.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\NewProject - Copy\\NewProject\\Service\\UserService\\StuAuth.cs",
+              "RelativeDocumentMoniker": "NewProject\\Service\\UserService\\StuAuth.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\NewProject - Copy\\NewProject\\Service\\UserService\\StuAuth.cs",
+              "RelativeToolTip": "NewProject\\Service\\UserService\\StuAuth.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwDMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T08:49:55.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InstructAuth.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\NewProject - Copy\\NewProject\\Service\\UserService\\InstructAuth.cs",
+              "RelativeDocumentMoniker": "NewProject\\Service\\UserService\\InstructAuth.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\NewProject - Copy\\NewProject\\Service\\UserService\\InstructAuth.cs",
+              "RelativeToolTip": "NewProject\\Service\\UserService\\InstructAuth.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T16:41:57.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ValidateFilter.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\NewProject - Copy\\NewProject\\ValidateExceptions\\ValidateFilter.cs",
+              "RelativeDocumentMoniker": "NewProject\\ValidateExceptions\\ValidateFilter.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\NewProject - Copy\\NewProject\\ValidateExceptions\\ValidateFilter.cs",
+              "RelativeToolTip": "NewProject\\ValidateExceptions\\ValidateFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T17:34:51.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EceptionHandlermiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\NewProject - Copy\\NewProject\\ExceptionHandler\\EceptionHandlermiddleware.cs",
+              "RelativeDocumentMoniker": "NewProject\\ExceptionHandler\\EceptionHandlermiddleware.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\NewProject - Copy\\NewProject\\ExceptionHandler\\EceptionHandlermiddleware.cs",
+              "RelativeToolTip": "NewProject\\ExceptionHandler\\EceptionHandlermiddleware.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T06:48:08.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\NewProject - Copy\\NewProject\\Models\\User.cs",
+              "RelativeDocumentMoniker": "NewProject\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\NewProject - Copy\\NewProject\\Models\\User.cs",
+              "RelativeToolTip": "NewProject\\Models\\User.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAwwCsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T09:03:50.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateStuDto.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\NewProject - Copy\\NewProject\\Dtos\\StudentDto\\CreateStuDto.cs",
+              "RelativeDocumentMoniker": "NewProject\\Dtos\\StudentDto\\CreateStuDto.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\NewProject - Copy\\NewProject\\Dtos\\StudentDto\\CreateStuDto.cs",
+              "RelativeToolTip": "NewProject\\Dtos\\StudentDto\\CreateStuDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T05:09:24.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\NewProject - Copy\\NewProject\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "NewProject\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\NewProject - Copy\\NewProject\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "NewProject\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T08:57:02.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\NewProject - Copy\\NewProject\\Service\\UserService\\StudentService.cs",
+              "RelativeDocumentMoniker": "NewProject\\Service\\UserService\\StudentService.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\NewProject - Copy\\NewProject\\Service\\UserService\\StudentService.cs",
+              "RelativeToolTip": "NewProject\\Service\\UserService\\StudentService.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAA+wF8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T10:16:00.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\NewProject - Copy\\NewProject\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "NewProject\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\NewProject - Copy\\NewProject\\Controllers\\UserController.cs",
+              "RelativeToolTip": "NewProject\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T10:26:56.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\NewProject - Copy\\NewProject\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "NewProject\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\NewProject - Copy\\NewProject\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "NewProject\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T06:48:38.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InstructorController.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\NewProject - Copy\\NewProject\\Controllers\\InstructorController.cs",
+              "RelativeDocumentMoniker": "NewProject\\Controllers\\InstructorController.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\NewProject - Copy\\NewProject\\Controllers\\InstructorController.cs",
+              "RelativeToolTip": "NewProject\\Controllers\\InstructorController.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAAADQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T06:06:48.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserListDto.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\NewProject - Copy\\NewProject\\Dtos\\UserListDto.cs",
+              "RelativeDocumentMoniker": "NewProject\\Dtos\\UserListDto.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\NewProject - Copy\\NewProject\\Dtos\\UserListDto.cs",
+              "RelativeToolTip": "NewProject\\Dtos\\UserListDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T06:45:24.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\NewProject - Copy\\NewProject\\Program.cs",
+              "RelativeDocumentMoniker": "NewProject\\Program.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\NewProject - Copy\\NewProject\\Program.cs",
+              "RelativeToolTip": "NewProject\\Program.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAHIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T09:13:09.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "InstructorDto.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\NewProject - Copy\\NewProject\\Dtos\\InstructorDto.cs",
+              "RelativeDocumentMoniker": "NewProject\\Dtos\\InstructorDto.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\NewProject - Copy\\NewProject\\Dtos\\InstructorDto.cs",
+              "RelativeToolTip": "NewProject\\Dtos\\InstructorDto.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAD4vywAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T08:39:26.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EnrollmentService.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\NewProject - Copy\\NewProject\\Service\\UserService\\EnrollmentService.cs",
+              "RelativeDocumentMoniker": "NewProject\\Service\\UserService\\EnrollmentService.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\NewProject - Copy\\NewProject\\Service\\UserService\\EnrollmentService.cs",
+              "RelativeToolTip": "NewProject\\Service\\UserService\\EnrollmentService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T10:37:43.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\NewProject - Copy\\NewProject\\Profiles\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "NewProject\\Profiles\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\NewProject - Copy\\NewProject\\Profiles\\MappingProfile.cs",
+              "RelativeToolTip": "NewProject\\Profiles\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T05:10:56.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EnrollController.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\NewProject - Copy\\NewProject\\Controllers\\EnrollController.cs",
+              "RelativeDocumentMoniker": "NewProject\\Controllers\\EnrollController.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\NewProject - Copy\\NewProject\\Controllers\\EnrollController.cs",
+              "RelativeToolTip": "NewProject\\Controllers\\EnrollController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvzAAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T11:35:06.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Interface.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\NewProject - Copy\\NewProject\\Service\\UserService\\Interface.cs",
+              "RelativeDocumentMoniker": "NewProject\\Service\\UserService\\Interface.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\NewProject - Copy\\NewProject\\Service\\UserService\\Interface.cs",
+              "RelativeToolTip": "NewProject\\Service\\UserService\\Interface.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAIA8wDIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T10:13:32.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20260223094551_AddTokens.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\NewProject - Copy\\NewProject\\Migrations\\20260223094551_AddTokens.cs",
+              "RelativeDocumentMoniker": "NewProject\\Migrations\\20260223094551_AddTokens.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\NewProject - Copy\\NewProject\\Migrations\\20260223094551_AddTokens.cs",
+              "RelativeToolTip": "NewProject\\Migrations\\20260223094551_AddTokens.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T09:45:51.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\NewProject - Copy\\NewProject\\appsettings.json",
+              "RelativeDocumentMoniker": "NewProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\NewProject - Copy\\NewProject\\appsettings.json",
+              "RelativeToolTip": "NewProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-18T09:08:16.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EnrollmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\NewProject - Copy\\NewProject\\Dtos\\EnrollmentDto.cs",
+              "RelativeDocumentMoniker": "NewProject\\Dtos\\EnrollmentDto.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\NewProject - Copy\\NewProject\\Dtos\\EnrollmentDto.cs",
+              "RelativeToolTip": "NewProject\\Dtos\\EnrollmentDto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwBQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T11:31:34.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20260223045706_Token.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\NewProject - Copy\\NewProject\\Migrations\\20260223045706_Token.cs",
+              "RelativeDocumentMoniker": "NewProject\\Migrations\\20260223045706_Token.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\NewProject - Copy\\NewProject\\Migrations\\20260223045706_Token.cs",
+              "RelativeToolTip": "NewProject\\Migrations\\20260223045706_Token.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T04:57:07.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\NewProject - Copy\\NewProject\\Service\\UserService\\CourseService.cs",
+              "RelativeDocumentMoniker": "NewProject\\Service\\UserService\\CourseService.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\NewProject - Copy\\NewProject\\Service\\UserService\\CourseService.cs",
+              "RelativeToolTip": "NewProject\\Service\\UserService\\CourseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwDMAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T05:48:44.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CourseDto.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\NewProject - Copy\\NewProject\\Dtos\\CourseDto.cs",
+              "RelativeDocumentMoniker": "NewProject\\Dtos\\CourseDto.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\NewProject - Copy\\NewProject\\Dtos\\CourseDto.cs",
+              "RelativeToolTip": "NewProject\\Dtos\\CourseDto.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T10:57:18.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAAEVAAAAAAAAAAAYwBEVAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-02-20T11:12:02.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20260220045321_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\NewProject - Copy\\NewProject\\Migrations\\20260220045321_Initial.cs",
+              "RelativeDocumentMoniker": "NewProject\\Migrations\\20260220045321_Initial.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\NewProject - Copy\\NewProject\\Migrations\\20260220045321_Initial.cs",
+              "RelativeToolTip": "NewProject\\Migrations\\20260220045321_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T04:53:21.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "NewProject.http",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\NewProject - Copy\\NewProject\\NewProject.http",
+              "RelativeDocumentMoniker": "NewProject\\NewProject.http",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\NewProject - Copy\\NewProject\\NewProject.http",
+              "RelativeToolTip": "NewProject\\NewProject.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-02-18T09:15:59.556Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+2026-02-16 14:05:15.419 +05:30 [INF] Now listening on: https://localhost:7096
+2026-02-16 14:05:15.449 +05:30 [INF] Now listening on: http://localhost:5266
+2026-02-16 14:05:15.510 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-02-16 14:05:15.521 +05:30 [INF] Hosting environment: Development
+2026-02-16 14:05:15.523 +05:30 [INF] Content root path: C:\Users\marad\source\repos\ASP.NET_core-basics\Examples\Monoexample\Monoexample
+2026-02-16 14:05:16.486 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7096/swagger/index.html - null null
+2026-02-16 14:05:16.765 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7096/swagger/index.html - 200 null text/html;charset=utf-8 282.468ms
+2026-02-16 14:05:16.812 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7096/_framework/aspnetcore-browser-refresh.js - null null
+2026-02-16 14:05:16.845 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7096/_framework/aspnetcore-browser-refresh.js - 200 16507 application/javascript; charset=utf-8 32.7773ms
+2026-02-16 14:05:16.852 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7096/_vs/browserLink - null null
+2026-02-16 14:05:17.041 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7096/_vs/browserLink - 200 null text/javascript; charset=UTF-8 189.7459ms
+2026-02-16 14:05:17.117 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7096/swagger/v1/swagger.json - null null
+2026-02-16 14:05:17.131 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7096/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 14.0386ms
+2026-02-16 14:05:28.934 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7096/api/User/all - null null
+2026-02-16 14:05:28.963 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'System.Int32' while attempting to Invoke middleware 'Monoexample.Middleware.ExceptionHandler'.
+   at lambda_method1(Closure, Object, HttpContext, IServiceProvider)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2026-02-16 14:05:29.010 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7096/api/User/all - 500 null text/plain; charset=utf-8 75.6537ms
+2026-02-16 14:13:36.591 +05:30 [INF] Now listening on: https://localhost:7096
+2026-02-16 14:13:36.640 +05:30 [INF] Now listening on: http://localhost:5266
+2026-02-16 14:13:36.717 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-02-16 14:13:36.720 +05:30 [INF] Hosting environment: Development
+2026-02-16 14:13:36.723 +05:30 [INF] Content root path: C:\Users\marad\source\repos\ASP.NET_core-basics\Examples\Monoexample\Monoexample
+2026-02-16 14:13:37.400 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7096/swagger/index.html - null null
+2026-02-16 14:13:37.850 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7096/swagger/index.html - 200 null text/html;charset=utf-8 464.0373ms
+2026-02-16 14:13:37.873 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7096/_framework/aspnetcore-browser-refresh.js - null null
+2026-02-16 14:13:37.873 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7096/_vs/browserLink - null null
+2026-02-16 14:13:37.885 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7096/_framework/aspnetcore-browser-refresh.js - 200 16507 application/javascript; charset=utf-8 13.0017ms
+2026-02-16 14:13:37.989 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7096/_vs/browserLink - 200 null text/javascript; charset=UTF-8 115.6142ms
+2026-02-16 14:13:38.042 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7096/swagger/v1/swagger.json - null null
+2026-02-16 14:13:38.066 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7096/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 24.3436ms
+2026-02-16 14:13:43.426 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7096/api/User/all - null null
+2026-02-16 14:13:43.452 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'System.Int32' while attempting to Invoke middleware 'Monoexample.Middleware.ExceptionHandler'.
+   at lambda_method1(Closure, Object, HttpContext, IServiceProvider)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2026-02-16 14:13:43.549 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7096/api/User/all - 500 null text/plain; charset=utf-8 123.7704ms
+2026-02-16 14:42:47.192 +05:30 [INF] Now listening on: https://localhost:7096
+2026-02-16 14:42:47.296 +05:30 [INF] Now listening on: http://localhost:5266
+2026-02-16 14:42:47.621 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-02-16 14:42:47.627 +05:30 [INF] Hosting environment: Development
+2026-02-16 14:42:47.633 +05:30 [INF] Content root path: C:\Users\marad\source\repos\ASP.NET_core-basics\Examples\Monoexample\Monoexample
+2026-02-16 14:42:48.355 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7096/swagger/index.html - null null
+2026-02-16 14:42:48.848 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7096/swagger/index.html - 200 null text/html;charset=utf-8 496.6226ms
+2026-02-16 14:42:48.975 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7096/_vs/browserLink - null null
+2026-02-16 14:42:48.975 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7096/_framework/aspnetcore-browser-refresh.js - null null
+2026-02-16 14:42:49.005 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7096/_framework/aspnetcore-browser-refresh.js - 200 16507 application/javascript; charset=utf-8 27.7931ms
+2026-02-16 14:42:49.080 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7096/_vs/browserLink - 200 null text/javascript; charset=UTF-8 104.4957ms
+2026-02-16 14:42:49.317 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7096/swagger/v1/swagger.json - null null
+2026-02-16 14:42:49.358 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7096/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 40.7556ms
+2026-02-16 14:42:55.371 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7096/api/User/all - null null
+2026-02-16 14:42:55.400 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'System.Int32' while attempting to Invoke middleware 'Monoexample.Middleware.ExceptionHandler'.
+   at lambda_method1(Closure, Object, HttpContext, IServiceProvider)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2026-02-16 14:42:55.463 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7096/api/User/all - 500 null text/plain; charset=utf-8 92.0463ms
