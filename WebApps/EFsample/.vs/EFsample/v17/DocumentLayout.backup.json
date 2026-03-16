@@ -1,0 +1,450 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\EFsample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15BA893B-98B7-49D2-AA81-D825360131C8}|EFsample\\EntityFW_Razor.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\webapps\\efsample\\efsample\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15BA893B-98B7-49D2-AA81-D825360131C8}|EFsample\\EntityFW_Razor.csproj|solutionrelative:efsample\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BA893B-98B7-49D2-AA81-D825360131C8}|EFsample\\EntityFW_Razor.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\webapps\\efsample\\efsample\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15BA893B-98B7-49D2-AA81-D825360131C8}|EFsample\\EntityFW_Razor.csproj|solutionrelative:efsample\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BA893B-98B7-49D2-AA81-D825360131C8}|EFsample\\EntityFW_Razor.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\webapps\\efsample\\efsample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15BA893B-98B7-49D2-AA81-D825360131C8}|EFsample\\EntityFW_Razor.csproj|solutionrelative:efsample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BA893B-98B7-49D2-AA81-D825360131C8}|EFsample\\EntityFW_Razor.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\webapps\\efsample\\efsample\\pages\\customers\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15BA893B-98B7-49D2-AA81-D825360131C8}|EFsample\\EntityFW_Razor.csproj|solutionrelative:efsample\\pages\\customers\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BA893B-98B7-49D2-AA81-D825360131C8}|EFsample\\EntityFW_Razor.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\webapps\\efsample\\efsample\\pages\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15BA893B-98B7-49D2-AA81-D825360131C8}|EFsample\\EntityFW_Razor.csproj|solutionrelative:efsample\\pages\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BA893B-98B7-49D2-AA81-D825360131C8}|EFsample\\EntityFW_Razor.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\webapps\\efsample\\efsample\\migrations\\20260121120549_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15BA893B-98B7-49D2-AA81-D825360131C8}|EFsample\\EntityFW_Razor.csproj|solutionrelative:efsample\\migrations\\20260121120549_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BA893B-98B7-49D2-AA81-D825360131C8}|EFsample\\EntityFW_Razor.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\webapps\\efsample\\efsample\\migrations\\20260121120549_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15BA893B-98B7-49D2-AA81-D825360131C8}|EFsample\\EntityFW_Razor.csproj|solutionrelative:efsample\\migrations\\20260121120549_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BA893B-98B7-49D2-AA81-D825360131C8}|EFsample\\EntityFW_Razor.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\webapps\\efsample\\efsample\\pages\\customers\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15BA893B-98B7-49D2-AA81-D825360131C8}|EFsample\\EntityFW_Razor.csproj|solutionrelative:efsample\\pages\\customers\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BA893B-98B7-49D2-AA81-D825360131C8}|EFsample\\EntityFW_Razor.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\webapps\\efsample\\efsample\\models\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15BA893B-98B7-49D2-AA81-D825360131C8}|EFsample\\EntityFW_Razor.csproj|solutionrelative:efsample\\models\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BA893B-98B7-49D2-AA81-D825360131C8}|EFsample\\EntityFW_Razor.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\webapps\\efsample\\efsample\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15BA893B-98B7-49D2-AA81-D825360131C8}|EFsample\\EntityFW_Razor.csproj|solutionrelative:efsample\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BA893B-98B7-49D2-AA81-D825360131C8}|EFsample\\EntityFW_Razor.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\webapps\\efsample\\efsample\\entityfw_razor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{15BA893B-98B7-49D2-AA81-D825360131C8}|EFsample\\EntityFW_Razor.csproj|solutionrelative:efsample\\entityfw_razor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BA893B-98B7-49D2-AA81-D825360131C8}|EFsample\\EntityFW_Razor.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\webapps\\efsample\\efsample\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15BA893B-98B7-49D2-AA81-D825360131C8}|EFsample\\EntityFW_Razor.csproj|solutionrelative:efsample\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BA893B-98B7-49D2-AA81-D825360131C8}|EFsample\\EntityFW_Razor.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\webapps\\efsample\\efsample\\pages\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15BA893B-98B7-49D2-AA81-D825360131C8}|EFsample\\EntityFW_Razor.csproj|solutionrelative:efsample\\pages\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BA893B-98B7-49D2-AA81-D825360131C8}|EFsample\\EntityFW_Razor.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\webapps\\efsample\\efsample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{15BA893B-98B7-49D2-AA81-D825360131C8}|EFsample\\EntityFW_Razor.csproj|solutionrelative:efsample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BA893B-98B7-49D2-AA81-D825360131C8}|EFsample\\EntityFW_Razor.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\webapps\\efsample\\efsample\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15BA893B-98B7-49D2-AA81-D825360131C8}|EFsample\\EntityFW_Razor.csproj|solutionrelative:efsample\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BA893B-98B7-49D2-AA81-D825360131C8}|EFsample\\EntityFW_Razor.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\webapps\\efsample\\efsample\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15BA893B-98B7-49D2-AA81-D825360131C8}|EFsample\\EntityFW_Razor.csproj|solutionrelative:efsample\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BA893B-98B7-49D2-AA81-D825360131C8}|EFsample\\EntityFW_Razor.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\webapps\\efsample\\efsample\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15BA893B-98B7-49D2-AA81-D825360131C8}|EFsample\\EntityFW_Razor.csproj|solutionrelative:efsample\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BA893B-98B7-49D2-AA81-D825360131C8}|EFsample\\EntityFW_Razor.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\webapps\\efsample\\efsample\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15BA893B-98B7-49D2-AA81-D825360131C8}|EFsample\\EntityFW_Razor.csproj|solutionrelative:efsample\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BA893B-98B7-49D2-AA81-D825360131C8}|EFsample\\EntityFW_Razor.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\webapps\\efsample\\efsample\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15BA893B-98B7-49D2-AA81-D825360131C8}|EFsample\\EntityFW_Razor.csproj|solutionrelative:efsample\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BA893B-98B7-49D2-AA81-D825360131C8}|EFsample\\EntityFW_Razor.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\webapps\\efsample\\efsample\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15BA893B-98B7-49D2-AA81-D825360131C8}|EFsample\\EntityFW_Razor.csproj|solutionrelative:efsample\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BA893B-98B7-49D2-AA81-D825360131C8}|EFsample\\EntityFW_Razor.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\webapps\\efsample\\efsample\\pages\\customers\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15BA893B-98B7-49D2-AA81-D825360131C8}|EFsample\\EntityFW_Razor.csproj|solutionrelative:efsample\\pages\\customers\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BA893B-98B7-49D2-AA81-D825360131C8}|EFsample\\EntityFW_Razor.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\webapps\\efsample\\efsample\\pages\\customers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15BA893B-98B7-49D2-AA81-D825360131C8}|EFsample\\EntityFW_Razor.csproj|solutionrelative:efsample\\pages\\customers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BA893B-98B7-49D2-AA81-D825360131C8}|EFsample\\EntityFW_Razor.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\webapps\\efsample\\efsample\\pages\\customers\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15BA893B-98B7-49D2-AA81-D825360131C8}|EFsample\\EntityFW_Razor.csproj|solutionrelative:efsample\\pages\\customers\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BA893B-98B7-49D2-AA81-D825360131C8}|EFsample\\EntityFW_Razor.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\webapps\\efsample\\efsample\\pages\\customers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15BA893B-98B7-49D2-AA81-D825360131C8}|EFsample\\EntityFW_Razor.csproj|solutionrelative:efsample\\pages\\customers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BA893B-98B7-49D2-AA81-D825360131C8}|EFsample\\EntityFW_Razor.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\webapps\\efsample\\efsample\\pages\\customers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15BA893B-98B7-49D2-AA81-D825360131C8}|EFsample\\EntityFW_Razor.csproj|solutionrelative:efsample\\pages\\customers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BA893B-98B7-49D2-AA81-D825360131C8}|EFsample\\EntityFW_Razor.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\webapps\\efsample\\efsample\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15BA893B-98B7-49D2-AA81-D825360131C8}|EFsample\\EntityFW_Razor.csproj|solutionrelative:efsample\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\EFsample\\EFsample\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EFsample\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\EFsample\\EFsample\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "EFsample\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T11:44:08.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\EFsample\\EFsample\\Pages\\Customers\\Create.cshtml",
+              "RelativeDocumentMoniker": "EFsample\\Pages\\Customers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\EFsample\\EFsample\\Pages\\Customers\\Create.cshtml",
+              "RelativeToolTip": "EFsample\\Pages\\Customers\\Create.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-21T14:31:33.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\EFsample\\EFsample\\Pages\\Customers\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "EFsample\\Pages\\Customers\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\EFsample\\EFsample\\Pages\\Customers\\Create.cshtml.cs",
+              "RelativeToolTip": "EFsample\\Pages\\Customers\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T14:31:33.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\EFsample\\EFsample\\Pages\\Customers\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "EFsample\\Pages\\Customers\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\EFsample\\EFsample\\Pages\\Customers\\Index.cshtml.cs",
+              "RelativeToolTip": "EFsample\\Pages\\Customers\\Index.cshtml.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T14:31:34.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20260121120549_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\EFsample\\EFsample\\Migrations\\20260121120549_InitialCreate.cs",
+              "RelativeDocumentMoniker": "EFsample\\Migrations\\20260121120549_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\EFsample\\EFsample\\Migrations\\20260121120549_InitialCreate.cs",
+              "RelativeToolTip": "EFsample\\Migrations\\20260121120549_InitialCreate.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T12:05:49.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\EFsample\\EFsample\\Program.cs",
+              "RelativeDocumentMoniker": "EFsample\\Program.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\EFsample\\EFsample\\Program.cs",
+              "RelativeToolTip": "EFsample\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T11:50:07.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\EFsample\\EFsample\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "EFsample\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\EFsample\\EFsample\\Models\\Customer.cs",
+              "RelativeToolTip": "EFsample\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T11:43:17.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20260121120549_InitialCreate.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\EFsample\\EFsample\\Migrations\\20260121120549_InitialCreate.Designer.cs",
+              "RelativeDocumentMoniker": "EFsample\\Migrations\\20260121120549_InitialCreate.Designer.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\EFsample\\EFsample\\Migrations\\20260121120549_InitialCreate.Designer.cs",
+              "RelativeToolTip": "EFsample\\Migrations\\20260121120549_InitialCreate.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T06:22:24.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderDetails.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\EFsample\\EFsample\\Models\\OrderDetails.cs",
+              "RelativeDocumentMoniker": "EFsample\\Models\\OrderDetails.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\EFsample\\EFsample\\Models\\OrderDetails.cs",
+              "RelativeToolTip": "EFsample\\Models\\OrderDetails.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T11:54:29.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\EFsample\\EFsample\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "EFsample\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\EFsample\\EFsample\\Models\\Product.cs",
+              "RelativeToolTip": "EFsample\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T11:43:31.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EntityFW_Razor.csproj",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\EFsample\\EFsample\\EntityFW_Razor.csproj",
+              "RelativeDocumentMoniker": "EFsample\\EntityFW_Razor.csproj",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\EFsample\\EFsample\\EntityFW_Razor.csproj",
+              "RelativeToolTip": "EFsample\\EntityFW_Razor.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-23T08:50:32.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\EFsample\\EFsample\\Pages\\Customers\\Index.cshtml",
+              "RelativeDocumentMoniker": "EFsample\\Pages\\Customers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\EFsample\\EFsample\\Pages\\Customers\\Index.cshtml",
+              "RelativeToolTip": "EFsample\\Pages\\Customers\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-21T14:31:34.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\EFsample\\EFsample\\Startup.cs",
+              "RelativeDocumentMoniker": "EFsample\\Startup.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\EFsample\\EFsample\\Startup.cs",
+              "RelativeToolTip": "EFsample\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T06:33:32.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\EFsample\\EFsample\\appsettings.json",
+              "RelativeDocumentMoniker": "EFsample\\appsettings.json",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\EFsample\\EFsample\\appsettings.json",
+              "RelativeToolTip": "EFsample\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-21T11:50:22.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\EFsample\\EFsample\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "EFsample\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\EFsample\\EFsample\\Pages\\Index.cshtml",
+              "RelativeToolTip": "EFsample\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-21T14:21:42.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\EFsample\\EFsample\\Pages\\Customers\\Details.cshtml",
+              "RelativeDocumentMoniker": "EFsample\\Pages\\Customers\\Details.cshtml",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\EFsample\\EFsample\\Pages\\Customers\\Details.cshtml",
+              "RelativeToolTip": "EFsample\\Pages\\Customers\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-21T14:31:33.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\EFsample\\EFsample\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "EFsample\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\EFsample\\EFsample\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "EFsample\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-22T05:29:39.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\EFsample\\EFsample\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "EFsample\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\EFsample\\EFsample\\Pages\\Error.cshtml",
+              "RelativeToolTip": "EFsample\\Pages\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-22T05:29:41.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\EFsample\\EFsample\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "EFsample\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\EFsample\\EFsample\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "EFsample\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-22T05:29:42.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\EFsample\\EFsample\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EFsample\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\EFsample\\EFsample\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EFsample\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADEAAAAAAAAAAIBJwBwAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-22T05:31:29.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\EFsample\\EFsample\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "EFsample\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\EFsample\\EFsample\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "EFsample\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T06:11:36.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\EFsample\\EFsample\\Pages\\Customers\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "EFsample\\Pages\\Customers\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\EFsample\\EFsample\\Pages\\Customers\\Details.cshtml.cs",
+              "RelativeToolTip": "EFsample\\Pages\\Customers\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T14:31:34.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\EFsample\\EFsample\\Pages\\Customers\\Delete.cshtml",
+              "RelativeDocumentMoniker": "EFsample\\Pages\\Customers\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\EFsample\\EFsample\\Pages\\Customers\\Delete.cshtml",
+              "RelativeToolTip": "EFsample\\Pages\\Customers\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-21T14:31:34.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\EFsample\\EFsample\\Pages\\Customers\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "EFsample\\Pages\\Customers\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\EFsample\\EFsample\\Pages\\Customers\\Delete.cshtml.cs",
+              "RelativeToolTip": "EFsample\\Pages\\Customers\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T14:31:34.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\EFsample\\EFsample\\Pages\\Customers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EFsample\\Pages\\Customers\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\EFsample\\EFsample\\Pages\\Customers\\Edit.cshtml",
+              "RelativeToolTip": "EFsample\\Pages\\Customers\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-21T14:31:33.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\EFsample\\EFsample\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "EFsample\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\EFsample\\EFsample\\Models\\Order.cs",
+              "RelativeToolTip": "EFsample\\Models\\Order.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T11:43:41.197Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
