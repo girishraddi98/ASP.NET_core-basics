@@ -1,0 +1,216 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\AuthExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC5FB59-7802-416F-8BCE-23BFE78C55F7}|AuthExample\\AuthExample.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\examples\\authexample\\authexample\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC5FB59-7802-416F-8BCE-23BFE78C55F7}|AuthExample\\AuthExample.csproj|solutionrelative:authexample\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC5FB59-7802-416F-8BCE-23BFE78C55F7}|AuthExample\\AuthExample.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\examples\\authexample\\authexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC5FB59-7802-416F-8BCE-23BFE78C55F7}|AuthExample\\AuthExample.csproj|solutionrelative:authexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC5FB59-7802-416F-8BCE-23BFE78C55F7}|AuthExample\\AuthExample.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\examples\\authexample\\authexample\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC5FB59-7802-416F-8BCE-23BFE78C55F7}|AuthExample\\AuthExample.csproj|solutionrelative:authexample\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC5FB59-7802-416F-8BCE-23BFE78C55F7}|AuthExample\\AuthExample.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\examples\\authexample\\authexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4FC5FB59-7802-416F-8BCE-23BFE78C55F7}|AuthExample\\AuthExample.csproj|solutionrelative:authexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC5FB59-7802-416F-8BCE-23BFE78C55F7}|AuthExample\\AuthExample.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\examples\\authexample\\authexample\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC5FB59-7802-416F-8BCE-23BFE78C55F7}|AuthExample\\AuthExample.csproj|solutionrelative:authexample\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC5FB59-7802-416F-8BCE-23BFE78C55F7}|AuthExample\\AuthExample.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\examples\\authexample\\authexample\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC5FB59-7802-416F-8BCE-23BFE78C55F7}|AuthExample\\AuthExample.csproj|solutionrelative:authexample\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC5FB59-7802-416F-8BCE-23BFE78C55F7}|AuthExample\\AuthExample.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\examples\\authexample\\authexample\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC5FB59-7802-416F-8BCE-23BFE78C55F7}|AuthExample\\AuthExample.csproj|solutionrelative:authexample\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC5FB59-7802-416F-8BCE-23BFE78C55F7}|AuthExample\\AuthExample.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\examples\\authexample\\authexample\\context\\dbconn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC5FB59-7802-416F-8BCE-23BFE78C55F7}|AuthExample\\AuthExample.csproj|solutionrelative:authexample\\context\\dbconn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC5FB59-7802-416F-8BCE-23BFE78C55F7}|AuthExample\\AuthExample.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\examples\\authexample\\authexample\\migrations\\20260128171042_addrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC5FB59-7802-416F-8BCE-23BFE78C55F7}|AuthExample\\AuthExample.csproj|solutionrelative:authexample\\migrations\\20260128171042_addrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC5FB59-7802-416F-8BCE-23BFE78C55F7}|AuthExample\\AuthExample.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\examples\\authexample\\authexample\\migrations\\20260128103533_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC5FB59-7802-416F-8BCE-23BFE78C55F7}|AuthExample\\AuthExample.csproj|solutionrelative:authexample\\migrations\\20260128103533_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC5FB59-7802-416F-8BCE-23BFE78C55F7}|AuthExample\\AuthExample.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\examples\\authexample\\authexample\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4FC5FB59-7802-416F-8BCE-23BFE78C55F7}|AuthExample\\AuthExample.csproj|solutionrelative:authexample\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\AuthExample\\AuthExample\\Program.cs",
+              "RelativeDocumentMoniker": "AuthExample\\Program.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\AuthExample\\AuthExample\\Program.cs",
+              "RelativeToolTip": "AuthExample\\Program.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAABoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T05:53:59.058Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\AuthExample\\AuthExample\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "AuthExample\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\AuthExample\\AuthExample\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "AuthExample\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwDEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T05:53:49.222Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\AuthExample\\AuthExample\\Models\\User.cs",
+              "RelativeDocumentMoniker": "AuthExample\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\AuthExample\\AuthExample\\Models\\User.cs",
+              "RelativeToolTip": "AuthExample\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T05:51:52.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\AuthExample\\AuthExample\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "AuthExample\\Services\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\AuthExample\\AuthExample\\Services\\IAuthService.cs",
+              "RelativeToolTip": "AuthExample\\Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T14:18:48.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\AuthExample\\AuthExample\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "AuthExample\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\AuthExample\\AuthExample\\Services\\AuthService.cs",
+              "RelativeToolTip": "AuthExample\\Services\\AuthService.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwHIAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T14:13:22.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\AuthExample\\AuthExample\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthExample\\appsettings.json",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\AuthExample\\AuthExample\\appsettings.json",
+              "RelativeToolTip": "AuthExample\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-28T07:33:45.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\AuthExample\\AuthExample\\Models\\UserDto.cs",
+              "RelativeDocumentMoniker": "AuthExample\\Models\\UserDto.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\AuthExample\\AuthExample\\Models\\UserDto.cs",
+              "RelativeToolTip": "AuthExample\\Models\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T05:52:07.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dbconn.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\AuthExample\\AuthExample\\Context\\Dbconn.cs",
+              "RelativeDocumentMoniker": "AuthExample\\Context\\Dbconn.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\AuthExample\\AuthExample\\Context\\Dbconn.cs",
+              "RelativeToolTip": "AuthExample\\Context\\Dbconn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T10:29:16.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20260128171042_AddRole.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\AuthExample\\AuthExample\\Migrations\\20260128171042_AddRole.cs",
+              "RelativeDocumentMoniker": "AuthExample\\Migrations\\20260128171042_AddRole.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\AuthExample\\AuthExample\\Migrations\\20260128171042_AddRole.cs",
+              "RelativeToolTip": "AuthExample\\Migrations\\20260128171042_AddRole.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T17:10:42.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20260128103533_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\AuthExample\\AuthExample\\Migrations\\20260128103533_InitialCreate.cs",
+              "RelativeDocumentMoniker": "AuthExample\\Migrations\\20260128103533_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\AuthExample\\AuthExample\\Migrations\\20260128103533_InitialCreate.cs",
+              "RelativeToolTip": "AuthExample\\Migrations\\20260128103533_InitialCreate.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T10:35:34.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\AuthExample\\AuthExample\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AuthExample\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\Examples\\AuthExample\\AuthExample\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AuthExample\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-28T07:34:05.333Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
