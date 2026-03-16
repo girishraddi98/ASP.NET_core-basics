@@ -1,0 +1,361 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\ConnDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CFCDA4C-4942-4BB0-A674-300EA7CB6078}|ConnDB\\ExcelToDatabaseAPI.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\webapps\\conndb\\conndb\\dto\\tabservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CFCDA4C-4942-4BB0-A674-300EA7CB6078}|ConnDB\\ExcelToDatabaseAPI.csproj|solutionrelative:conndb\\dto\\tabservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CFCDA4C-4942-4BB0-A674-300EA7CB6078}|ConnDB\\ExcelToDatabaseAPI.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\webapps\\conndb\\conndb\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CFCDA4C-4942-4BB0-A674-300EA7CB6078}|ConnDB\\ExcelToDatabaseAPI.csproj|solutionrelative:conndb\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CFCDA4C-4942-4BB0-A674-300EA7CB6078}|ConnDB\\ExcelToDatabaseAPI.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\webapps\\conndb\\conndb\\dto\\tabdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CFCDA4C-4942-4BB0-A674-300EA7CB6078}|ConnDB\\ExcelToDatabaseAPI.csproj|solutionrelative:conndb\\dto\\tabdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CFCDA4C-4942-4BB0-A674-300EA7CB6078}|ConnDB\\ExcelToDatabaseAPI.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\webapps\\conndb\\conndb\\profiles\\mappercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CFCDA4C-4942-4BB0-A674-300EA7CB6078}|ConnDB\\ExcelToDatabaseAPI.csproj|solutionrelative:conndb\\profiles\\mappercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CFCDA4C-4942-4BB0-A674-300EA7CB6078}|ConnDB\\ExcelToDatabaseAPI.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\webapps\\conndb\\conndb\\exceltodatabaseapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0CFCDA4C-4942-4BB0-A674-300EA7CB6078}|ConnDB\\ExcelToDatabaseAPI.csproj|solutionrelative:conndb\\exceltodatabaseapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CFCDA4C-4942-4BB0-A674-300EA7CB6078}|ConnDB\\ExcelToDatabaseAPI.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\webapps\\conndb\\conndb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CFCDA4C-4942-4BB0-A674-300EA7CB6078}|ConnDB\\ExcelToDatabaseAPI.csproj|solutionrelative:conndb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CFCDA4C-4942-4BB0-A674-300EA7CB6078}|ConnDB\\ExcelToDatabaseAPI.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\webapps\\conndb\\conndb\\controllers\\tabcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CFCDA4C-4942-4BB0-A674-300EA7CB6078}|ConnDB\\ExcelToDatabaseAPI.csproj|solutionrelative:conndb\\controllers\\tabcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CFCDA4C-4942-4BB0-A674-300EA7CB6078}|ConnDB\\ExcelToDatabaseAPI.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\webapps\\conndb\\conndb\\controllers\\dbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CFCDA4C-4942-4BB0-A674-300EA7CB6078}|ConnDB\\ExcelToDatabaseAPI.csproj|solutionrelative:conndb\\controllers\\dbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CFCDA4C-4942-4BB0-A674-300EA7CB6078}|ConnDB\\ExcelToDatabaseAPI.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\webapps\\conndb\\conndb\\services\\exportcsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CFCDA4C-4942-4BB0-A674-300EA7CB6078}|ConnDB\\ExcelToDatabaseAPI.csproj|solutionrelative:conndb\\services\\exportcsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CFCDA4C-4942-4BB0-A674-300EA7CB6078}|ConnDB\\ExcelToDatabaseAPI.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\webapps\\conndb\\conndb\\services\\20260123051015_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CFCDA4C-4942-4BB0-A674-300EA7CB6078}|ConnDB\\ExcelToDatabaseAPI.csproj|solutionrelative:conndb\\services\\20260123051015_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CFCDA4C-4942-4BB0-A674-300EA7CB6078}|ConnDB\\ExcelToDatabaseAPI.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\webapps\\conndb\\conndb\\services\\.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CFCDA4C-4942-4BB0-A674-300EA7CB6078}|ConnDB\\ExcelToDatabaseAPI.csproj|solutionrelative:conndb\\services\\.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CFCDA4C-4942-4BB0-A674-300EA7CB6078}|ConnDB\\ExcelToDatabaseAPI.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\webapps\\conndb\\conndb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CFCDA4C-4942-4BB0-A674-300EA7CB6078}|ConnDB\\ExcelToDatabaseAPI.csproj|solutionrelative:conndb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CFCDA4C-4942-4BB0-A674-300EA7CB6078}|ConnDB\\ExcelToDatabaseAPI.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\webapps\\conndb\\conndb\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CFCDA4C-4942-4BB0-A674-300EA7CB6078}|ConnDB\\ExcelToDatabaseAPI.csproj|solutionrelative:conndb\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CFCDA4C-4942-4BB0-A674-300EA7CB6078}|ConnDB\\ExcelToDatabaseAPI.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\webapps\\conndb\\conndb\\models\\studentdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CFCDA4C-4942-4BB0-A674-300EA7CB6078}|ConnDB\\ExcelToDatabaseAPI.csproj|solutionrelative:conndb\\models\\studentdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CFCDA4C-4942-4BB0-A674-300EA7CB6078}|ConnDB\\ExcelToDatabaseAPI.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\webapps\\conndb\\conndb\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CFCDA4C-4942-4BB0-A674-300EA7CB6078}|ConnDB\\ExcelToDatabaseAPI.csproj|solutionrelative:conndb\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CFCDA4C-4942-4BB0-A674-300EA7CB6078}|ConnDB\\ExcelToDatabaseAPI.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\webapps\\conndb\\conndb\\files\\students.pdf||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0CFCDA4C-4942-4BB0-A674-300EA7CB6078}|ConnDB\\ExcelToDatabaseAPI.csproj|solutionrelative:conndb\\files\\students.pdf||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CFCDA4C-4942-4BB0-A674-300EA7CB6078}|ConnDB\\ExcelToDatabaseAPI.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\webapps\\conndb\\conndb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0CFCDA4C-4942-4BB0-A674-300EA7CB6078}|ConnDB\\ExcelToDatabaseAPI.csproj|solutionrelative:conndb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CFCDA4C-4942-4BB0-A674-300EA7CB6078}|ConnDB\\ExcelToDatabaseAPI.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\webapps\\conndb\\conndb\\appdbcontext\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CFCDA4C-4942-4BB0-A674-300EA7CB6078}|ConnDB\\ExcelToDatabaseAPI.csproj|solutionrelative:conndb\\appdbcontext\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CFCDA4C-4942-4BB0-A674-300EA7CB6078}|ConnDB\\ExcelToDatabaseAPI.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\webapps\\conndb\\conndb\\models\\studentcsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CFCDA4C-4942-4BB0-A674-300EA7CB6078}|ConnDB\\ExcelToDatabaseAPI.csproj|solutionrelative:conndb\\models\\studentcsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CFCDA4C-4942-4BB0-A674-300EA7CB6078}|ConnDB\\ExcelToDatabaseAPI.csproj|c:\\users\\marad\\source\\repos\\asp.net_core-basics\\webapps\\conndb\\conndb\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CFCDA4C-4942-4BB0-A674-300EA7CB6078}|ConnDB\\ExcelToDatabaseAPI.csproj|solutionrelative:conndb\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TabServices.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\ConnDB\\ConnDB\\DTO\\TabServices.cs",
+              "RelativeDocumentMoniker": "ConnDB\\DTO\\TabServices.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\ConnDB\\ConnDB\\DTO\\TabServices.cs",
+              "RelativeToolTip": "ConnDB\\DTO\\TabServices.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAgwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T10:45:06.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": ".cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\ConnDB\\ConnDB\\Services\\.cs",
+              "RelativeDocumentMoniker": "ConnDB\\Services\\.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\ConnDB\\ConnDB\\Services\\.cs",
+              "RelativeToolTip": "ConnDB\\Services\\.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:15:34.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20260123051015_Initialcreate.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\ConnDB\\ConnDB\\Services\\20260123051015_Initialcreate.cs",
+              "RelativeDocumentMoniker": "ConnDB\\Services\\20260123051015_Initialcreate.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\ConnDB\\ConnDB\\Services\\20260123051015_Initialcreate.cs",
+              "RelativeToolTip": "ConnDB\\Services\\20260123051015_Initialcreate.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAuwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T05:10:16.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TabDto.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\ConnDB\\ConnDB\\DTO\\TabDto.cs",
+              "RelativeDocumentMoniker": "ConnDB\\DTO\\TabDto.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\ConnDB\\ConnDB\\DTO\\TabDto.cs",
+              "RelativeToolTip": "ConnDB\\DTO\\TabDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T09:50:56.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\ConnDB\\ConnDB\\Program.cs",
+              "RelativeDocumentMoniker": "ConnDB\\Program.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\ConnDB\\ConnDB\\Program.cs",
+              "RelativeToolTip": "ConnDB\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T05:59:38.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExcelToDatabaseAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\ConnDB\\ConnDB\\ExcelToDatabaseAPI.csproj",
+              "RelativeDocumentMoniker": "ConnDB\\ExcelToDatabaseAPI.csproj",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\ConnDB\\ConnDB\\ExcelToDatabaseAPI.csproj",
+              "RelativeToolTip": "ConnDB\\ExcelToDatabaseAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-17T09:51:43.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mappercs.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\ConnDB\\ConnDB\\profiles\\Mappercs.cs",
+              "RelativeDocumentMoniker": "ConnDB\\profiles\\Mappercs.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\ConnDB\\ConnDB\\profiles\\Mappercs.cs",
+              "RelativeToolTip": "ConnDB\\profiles\\Mappercs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T09:53:01.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\ConnDB\\ConnDB\\Models\\Class.cs",
+              "RelativeDocumentMoniker": "ConnDB\\Models\\Class.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\ConnDB\\ConnDB\\Models\\Class.cs",
+              "RelativeToolTip": "ConnDB\\Models\\Class.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAArwCQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T05:25:59.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DBController.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\ConnDB\\ConnDB\\Controllers\\DBController.cs",
+              "RelativeDocumentMoniker": "ConnDB\\Controllers\\DBController.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\ConnDB\\ConnDB\\Controllers\\DBController.cs",
+              "RelativeToolTip": "ConnDB\\Controllers\\DBController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T09:44:00.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\ConnDB\\ConnDB\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ConnDB\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\ConnDB\\ConnDB\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ConnDB\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAIBJwCwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T07:19:33.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TabController.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\ConnDB\\ConnDB\\Controllers\\TabController.cs",
+              "RelativeDocumentMoniker": "ConnDB\\Controllers\\TabController.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\ConnDB\\ConnDB\\Controllers\\TabController.cs",
+              "RelativeToolTip": "ConnDB\\Controllers\\TabController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T10:00:57.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentDb.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\ConnDB\\ConnDB\\Models\\StudentDb.cs",
+              "RelativeDocumentMoniker": "ConnDB\\Models\\StudentDb.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\ConnDB\\ConnDB\\Models\\StudentDb.cs",
+              "RelativeToolTip": "ConnDB\\Models\\StudentDb.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T10:24:01.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExportCSV.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\ConnDB\\ConnDB\\Services\\ExportCSV.cs",
+              "RelativeDocumentMoniker": "ConnDB\\Services\\ExportCSV.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\ConnDB\\ConnDB\\Services\\ExportCSV.cs",
+              "RelativeToolTip": "ConnDB\\Services\\ExportCSV.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T05:18:34.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\ConnDB\\ConnDB\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ConnDB\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\ConnDB\\ConnDB\\Models\\User.cs",
+              "RelativeToolTip": "ConnDB\\Models\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:16:06.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "students.pdf",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\ConnDB\\ConnDB\\Files\\students.pdf",
+              "RelativeDocumentMoniker": "ConnDB\\Files\\students.pdf",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\ConnDB\\ConnDB\\Files\\students.pdf",
+              "RelativeToolTip": "ConnDB\\Files\\students.pdf",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-04T09:55:45.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\ConnDB\\ConnDB\\AppDbContext\\Class.cs",
+              "RelativeDocumentMoniker": "ConnDB\\AppDbContext\\Class.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\ConnDB\\ConnDB\\AppDbContext\\Class.cs",
+              "RelativeToolTip": "ConnDB\\AppDbContext\\Class.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T11:09:46.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\ConnDB\\ConnDB\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ConnDB\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\ConnDB\\ConnDB\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ConnDB\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:06:29.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\ConnDB\\ConnDB\\appsettings.json",
+              "RelativeDocumentMoniker": "ConnDB\\appsettings.json",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\ConnDB\\ConnDB\\appsettings.json",
+              "RelativeToolTip": "ConnDB\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-23T04:58:52.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StudentCSV.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\ConnDB\\ConnDB\\Models\\StudentCSV.cs",
+              "RelativeDocumentMoniker": "ConnDB\\Models\\StudentCSV.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\ConnDB\\ConnDB\\Models\\StudentCSV.cs",
+              "RelativeToolTip": "ConnDB\\Models\\StudentCSV.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T09:19:00.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\ConnDB\\ConnDB\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "ConnDB\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\marad\\source\\repos\\ASP.NET_core-basics\\WebApps\\ConnDB\\ConnDB\\WeatherForecast.cs",
+              "RelativeToolTip": "ConnDB\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T07:18:00.328Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+@ConnDB_HostAddress = http://localhost:5098
+
+GET {{ConnDB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
